@@ -64,7 +64,8 @@ Tasks
 Section D (Classification)
 
 Tasks 
-1. Use the total votes counted by state in house elections cycle to create the label. If more votes were given to the democrat candidates in total, Machine Learning 2022  the state should be classified as D. Otherwise, if more votes were given to the republican candidates, the state should be categorized as R. 2. Using at least 6 features, apply an SVM model and at least 2 additional machine learning algorithms to predict the majority vote (D or R). 
+1. Use the total votes counted by state in house elections cycle to create the label. If more votes were given to the democrat candidates in total, Machine Learning 2022  the state should be classified as D. Otherwise, if more votes were given to the republican candidates, the state should be categorized as R. 
+2. Using at least 6 features, apply an SVM model and at least 2 additional machine learning algorithms to predict the majority vote (D or R). 
   • Provide feature importance for each model. 
   • The implementation should include parameter tuning. 
   • Report a suitable measure to evaluate the performance of each model and compare the results.   
