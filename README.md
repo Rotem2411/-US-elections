@@ -73,7 +73,7 @@ Voter turnout – in political science, voter turnout is the percentage of regis
 
 In 2022 senate elections will be held in the following states:  Alabama, Alaska, Arizona, Arkansas, California, Connecticut,  Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas,  Kentucky, Louisiana, Maryland, Missouri, Nevada, New Hampshire,  New York, North Carolina, North Dakota, Ohio, Oklahoma (2 races),  Oregon, Pennsylvania, South Carolina, South Dakota, Utah,  Vermont, Washington, and Wisconsin.   States that are not mentioned do not have races in 2022.  Note: senators are in office for 6 years and each state has exactly 2 senators. The senate elections occur on even number years so typically two third of the states have a senate election on a given election year. Task Predict the outcome - Republican and Democrat Senator (independents count as democrats) of the 2022 midterm elections for each state.  Machine Learning 2022  Additional bonus points will be given to students who accurately predicted the outcome after the election results in November!  
 
-### Section F (Performance - Bonus) 
+### Section F (Performance) 
 
 Machine learning models that outperformed other students’ models for either the unit sales predictions or the rainy-day classification may get additional points as long as the non-standard methodology to obtain superior results is also explained.  
   • In order to get the bonus points you may want to apply multiple performance measures to ensure that we can compare your performance on an equal basis to other projects, and that you did not sacrifice performance in a specific measure to outperform in another.  
