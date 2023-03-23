@@ -58,7 +58,6 @@ Tasks
     • Report a suitable measure to evaluate the performance (on the 48 or more states) of each model and compare the results. 
 
 4. Rank the states by how well your model predicted turnout. Specifically, write the 5 states that the turnout estimate was least successful. 
-5. 
     • Make modifications to your model and features so that at least 2 of the states that were in the bottom 5 will be ranked in the within the top 25 for prediction rate.  
 
 Section D (Classification)
