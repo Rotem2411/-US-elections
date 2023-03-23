@@ -9,6 +9,7 @@ Section A (Data Exploration and Pre-processing)
 
 1. Explore the data using tables, visualizations, and other relevant methods (use at least 3 different types of graphs). 
 2. Apply different methods of pre-processing to the data in order to prepare it for the models you wish to apply in the next sections. 
+
 • Provide an explanation to each method you apply. Your choice should reflect an understanding of the method and why it’s needed.   
 
 Section B (Dimensionality Reduction) 
@@ -21,9 +22,13 @@ For this section you should use only the states of California, Florida, South Da
 Tasks 
 1. Apply at least 2 dimensionality reduction algorithms.
 2. Create a scatter plot for the new data and color each observation according to the state it belongs to. 
+
     • Describe your findings (which states are most similar to one another). 
+    
     • Which features are the most effective to separate the four states? - Explain the process and findings.  - Present the resulting clusters visually. 
+    
     • Which features are the least effective to separate the four states?  - Explain the process and findings.  - Present the resulting clusters visually. 
+    
     • develop a method to calculate a numeric value for the goodness of separation.   
 
 Section C (Regression)
@@ -32,19 +37,29 @@ Voter turnout – in political science, voter turnout is the percentage of regis
 
 Tasks 
 
-1. Create a measure as accurate as you can for voter turnout percentage by state for the years 2010 and 2012. Explain the process performed to extract a measure for voter turnout.  Machine Learning 2022  
+1. Create a measure as accurate as you can for voter turnout percentage by state for the years 2010 and 2012. Explain the process performed to extract a measure for voter turnout.  
+
   • This may require the use of more than one table. In the USElectionResults19762020 folder, use the 1976-2020-house.csv file as a basis for turnout.  
 
 2. Create at least 6 features to predict voter turnout, explain how you build these features in detail.  
+3. 
     • You may use historic data for turnout, up to 8 years back. So, to estimate turnout in 2010 you may use data up to 2002. 
+    
     • Tip – You may want to visualize the historic data by election cycle for relevant insights.  
 
-3. Using the features you built, apply at least 3 machine learning algorithms to predict voter turnout percentage for at least 48 states. • Provide feature importance for each model. • Visually present your predictions in 2010 and 2012 for California, Florida, South Dakota, and Wyoming. 
+3. Using the features you built, apply at least 3 machine learning algorithms to predict voter turnout percentage for at least 48 states. 
+4. 
+    • Provide feature importance for each model. 
+    
+    • Visually present your predictions in 2010 and 2012 for California, Florida, South Dakota, and Wyoming. 
+    
     • The implementation should include parameter tuning. 
+    
     • Report a suitable measure to evaluate the performance (on the 48 or more states) of each model and compare the results. 
 
 4. Rank the states by how well your model predicted turnout. Specifically, write the 5 states that the turnout estimate was least successful. 
-  • Make modifications to your model and features so that at least 2 of the states that were in the bottom 5 will be ranked in the within the top 25 for prediction rate.  
+5. 
+    • Make modifications to your model and features so that at least 2 of the states that were in the bottom 5 will be ranked in the within the top 25 for prediction rate.  
 
 Section D (Classification)
 
